@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Employer\Dto\" />
-    <Folder Include="JobSearch\Dto\" />
+    <Folder Include="JobSeeker\Dto\" />
   </ItemGroup>
 
 </Project>

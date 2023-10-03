@@ -1,6 +1,8 @@
-﻿namespace Hcmrh.Msvc.JobPostings.Application.Employer.Services
+﻿using Hcmrh.Msvc.JobPostings.Domain.Employer.RepositoryInterfaces;
+
+namespace Hcmrh.Msvc.JobPostings.Application.Employer.Services
 {
-    public class JobsRepository
+    public class JobsRepository : IJobs
     {
     }
 }
